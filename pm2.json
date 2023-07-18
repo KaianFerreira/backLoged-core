@@ -1,0 +1,5 @@
+{
+    "name": "backlogged-backend",
+    "script": "node server.js",
+    "autorestart": true
+  }
